@@ -6,7 +6,7 @@ order: 2
 
 # All Licenses used in this project
 * [Modified MIT License](#modified-mit-license){.black}
-* [Creative Commons Attribution-NonCommercial 4.0 International](#creative-commons-attribution--noncommercial-4.0-International){.black}
+* [Creative Commons Attribution-NonCommercial 4.0 International](#creative-commons-attribution-noncommercial-40-international){.black}
 * [Open Game License](#open-game-license){.black}
 
 ## Modified MIT License
