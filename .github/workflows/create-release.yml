@@ -31,8 +31,8 @@ jobs:
       - name: Puts the release on GitHub
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "code/encounterspells.module"
+          artifacts: "code/Open5e-EncounterSpells.module"
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ steps.hash.outputs.sha_short }}
-          name: ${{ steps.hash.outputs.sha_short }} - EncounterSpells
+          name: Open5e Ecounter Spells - ${{ steps.hash.outputs.sha_short }} 
           prerelease: true
