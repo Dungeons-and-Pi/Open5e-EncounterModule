@@ -1,6 +1,6 @@
 ---
 name: A Spells
-slug: A.md
+slug: A-Spells.md
 include-in: module
 order: 2
 ---

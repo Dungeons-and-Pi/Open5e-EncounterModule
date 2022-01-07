@@ -1,0 +1,6 @@
+name: A Monsters
+slug: a-monsters
+parent: /
+order: 3
+include-in: module
+copy-files: true

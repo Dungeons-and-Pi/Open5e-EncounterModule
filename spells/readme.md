@@ -1,6 +1,6 @@
 ---
 name: README
-slug: readmes-spells.md
+slug: readme-spells.md
 include-in: module
 order: 1
 ---
