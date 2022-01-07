@@ -1,6 +1,6 @@
 id: bfbbc919-6247-4428-bf6d-ddef5497061e
-name: Ecounter Spells
-slug: encounterspells
+name: Open5e Ecounter Spells
+slug: Open5e-EncounterSpells
 description: Dungeons and Pi
 category: other
 author: Dungeons and Pi
@@ -8,5 +8,5 @@ code: TBD
 cover: icon.png
 delete-empty-groups: true
 print-link-update: D&D Beyond Entries
-version: 8
+version: 13
 auto-increment-version: true
