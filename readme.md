@@ -13,4 +13,4 @@ This module is intended as an easily-accessible digital reference for products y
 Only "official" (that is, published by WotC) data is to be included in the module. Anything else should be added to the homebrew repository.
 
 ## Spells
-* [A Spells](A.md){.black}
+* [A Spells](spells/A.md){.black}
