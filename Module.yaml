@@ -2,10 +2,11 @@ id: bfbbc919-6247-4428-bf6d-ddef5497061e
 name: Ecounter Spells
 slug: encounterspells
 description: Dungeons and Pi
-category: adventure
+category: other
 author: Dungeons and Pi
 code: TBD
+cover: icon.png
 delete-empty-groups: true
 print-link-update: D&D Beyond Entries
-version: 1
+version: 8
 auto-increment-version: true
