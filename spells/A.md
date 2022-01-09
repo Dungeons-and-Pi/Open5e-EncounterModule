@@ -1,6 +1,6 @@
 ---
 name: A Spells
-slug: readme-a-spells.md
+slug: spells-a.md
 include-in: module
 order: 2
 ---

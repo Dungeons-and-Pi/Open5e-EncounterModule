@@ -8,5 +8,7 @@ code: TBD
 cover: icon.png
 delete-empty-groups: true
 print-link-update: D&D Beyond Entries
-version: 23
+version: 27
 auto-increment-version: true
+ignore:
+  - .github/**

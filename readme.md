@@ -15,7 +15,7 @@ order: 1
     * [Aatxe](monsters/A/Aatxe.md){.black}
 
 #### Spells
-* [A Spells](spells/A/readme.md)
+* [A Spells](/page/spells-a.md)
     * [Acid Arrow](/spell/acid-arrow)
     * [Acid Splash](/spell/acid-splash)
     * [Aid](/spell/aid)
@@ -37,6 +37,21 @@ order: 1
     * [Astral Projection](/spell/astral-projection)
     * [Augury](/spell/augury)
     * [Awaken](/spell/awaken)
+* [B Spells](/page/spells-b.md)
+    * [Bane](/spell/bane)
+    * [Banishment](/spell/banishment)
+    * [Barkskin](/spell/barkskin)
+    * [Beacon of Hope](/spell/beacon-of-hope)
+    * [Bestow Curse](/spell/bestow-curse)
+    * [Black Tentacles](/spell/black-tentacles)
+    * [Blade Barrier](/spell/blade-barrier)
+    * [Bless](/spell/bless)
+    * [Blight](/spell/blight)
+    * [Blindness/Deafness](/spell/blindnessdeafness)
+    * [Blink](/spell/blink)
+    * [Blur](/spell/blur)
+    * [Branding Smite](/spell/branding-smite)
+    * [Burning Hands](/spell/burning-hands)
 
 ## Disclaimer
 
