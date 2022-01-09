@@ -6,8 +6,6 @@ name: Create Release
 jobs:
   create-release:
     runs-on: ubuntu-latest
-    env:
-          NODE_OPTIONS: '--max_old_space_size=4096'
     steps:
       - name: Cancel Previous Runs
         uses: styfle/cancel-workflow-action@0.9.1
@@ -18,8 +16,8 @@ jobs:
       - name: Move All Files into Code Dir
         run: mv * code | mkdir code  
         
-      - name: Download encounterplus/module-packer
-        run: git clone https://github.com/encounterplus/module-packer.git
+      - name: Download pisaucer/module-packer
+        run: git clone https://github.com/PiSaucer/module-packer
         
       - name: Build Release .module File
         run: |
