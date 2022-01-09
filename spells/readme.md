@@ -130,3 +130,21 @@ order: 1
 * [Druidcraft](/spell/druidcraft)
 
 </details>
+
+## [E Spells](/page/spells-e.md)
+
+<details>
+<summary>E Spells</summary>
+
+* [Earthquake](/spell/earthquake)
+* [Eldritch Blast](/spell/eldritch-blast)
+* [Enhance Ability](/spell/enhance-ability)
+* [Enlarge/Reduce](/spell/enlargereduce)
+* [Entangle](/spell/entangle)
+* [Enthrall](/spell/enthrall)
+* [Etherealness](/spell/etherealness)
+* [Expeditious Retreat](/spell/expeditious-retreat)
+* [Eye bite](/spell/eye-bite)
+* [Eyebite](/spell/eyebite)
+
+</details>

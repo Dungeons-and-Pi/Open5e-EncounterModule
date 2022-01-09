@@ -116,6 +116,17 @@ order: 1
     * [Dominate Person](/spell/dominate-person)
     * [Dream](/spell/dream)
     * [Druidcraft](/spell/druidcraft)
+* [E Spells](/page/spells-e.md)
+    * [Earthquake](/spell/earthquake)
+    * [Eldritch Blast](/spell/eldritch-blast)
+    * [Enhance Ability](/spell/enhance-ability)
+    * [Enlarge/Reduce](/spell/enlargereduce)
+    * [Entangle](/spell/entangle)
+    * [Enthrall](/spell/enthrall)
+    * [Etherealness](/spell/etherealness)
+    * [Expeditious Retreat](/spell/expeditious-retreat)
+    * [Eye bite](/spell/eye-bite)
+    * [Eyebite](/spell/eyebite)
 
 </details>
 
