@@ -6,7 +6,7 @@ order: 1
 
 # Open5e Encounter+ Module
 
-![repo size](https://img.shields.io/github/repo-size/Dungeons-and-Pi/Open5e-EncounterModule?style=plastic)
+[![repo size](https://img.shields.io/github/repo-size/Dungeons-and-Pi/Open5e-EncounterModule?style=plastic)](https://github.com/Dungeons-and-Pi/Open5e-EncounterModule)
 
 ## Table of Contents
 
@@ -15,14 +15,36 @@ order: 1
     * [Aatxe](monsters/A/Aatxe.md){.black}
 
 #### Spells
-* [A Spells](spells/A/readme.md){.black}
-    * [Acid Arrow](spells/A/readme.md){.black}
+* [A Spells](spells/A/readme.md)
+    * [Acid Arrow](/spell/acid-arrow)
+    * [Acid Splash](/spell/acid-splash)
+    * [Aid](/spell/aid)
+    * [Alarm](/spell/alarm)
+    * [Alter Self](/spell/alter-self/)
+    * [Animal Friendship](/spell/animal-friendship)
+    * [Animal Messenger](/spell/animal-messenger)
+    * [Animal Shapes](/spell/animal-shapes)
+    * [Animate Dead](/spell/animate-dead)
+    * [Animate Objects](/spell/animate-objects)
+    * [Antilife Shell](/spell/antilife-shell)
+    * [Antimagic Field](/spell/antimagic-field)
+    * [Anipathy/Sympathy](/spell/antipathysympathy)
+    * [Arcane Eye](/spell/arcane-eye)
+    * [Arcane Hand](/spell/arcane-hand)
+    * [Arcane Lock](/spell/arcane-lock)
+    * [Arcane Sword](/spell/arcane-sword)
+    * [Arcanist's Magic Aura](/spell/arcanists-magic-aura)
+    * [Astral Projection](/spell/astral-projection)
+    * [Augury](/spell/augury)
+    * [Awaken](/spell/awaken)
 
 ## Disclaimer
 
 This module is intended as an easily-accessible digital reference for products you already own. Please ensure you only access content in accordance with your local laws.
 
 Only "official" (that is, published by WotC) data is to be included in the module. Anything else should be added to a homebrew repository.
+
+Open5e Encounter+ Module is unofficial Fan Content permitted under the [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy){.blue}. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC
 
 ## Contributing
 
