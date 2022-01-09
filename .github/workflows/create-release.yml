@@ -29,15 +29,22 @@ jobs:
           cd module-packer/source/
           python3 launcher.py run --path "../../code" --output pdf
           
-      - name: Get Hash for Tag
+      - name: Get Hash
         id: hash
         run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
+
+      - name: Calculate build number
+        id: build-number
+        run: |
+          BUILD_NUMBER=$((2000+$GITHUB_RUN_NUMBER)) #to stay above jenkins
+          echo "Build number: $BUILD_NUMBER"
+          echo ::set-output name=BUILD_NUMBER::$BUILD_NUMBER
       
       - name: Puts the release on GitHub
         uses: ncipollo/release-action@v1
         with:
           artifacts: "code/open5e-encountermodule.module, code/open5e-encountermodule.pdf"
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag: ${{ steps.hash.outputs.sha_short }}
-          name: Open5e Ecounter Spells - ${{ steps.hash.outputs.sha_short }} 
+          tag: ${{ steps.build-number.outputs.BUILD_NUMBER }}
+          name: Open5e Ecounter Spells - ${{ steps.build-number.outputs.BUILD_NUMBER }} - ${{ steps.hash.outputs.sha_short }} 
           prerelease: true
