@@ -18,6 +18,9 @@ jobs:
         
       - name: Download encounterplus/module-packer
         run: git clone https://github.com/encounterplus/module-packer.git
+
+      - name: Node Heap Limit (RAM) Fix
+        run: export NODE_OPTIONS="--max_old_space_size=4096"
         
       - name: Build Release .module File
         run: |
