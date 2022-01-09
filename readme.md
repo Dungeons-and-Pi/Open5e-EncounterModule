@@ -10,7 +10,7 @@ This module is intended as an easily-accessible digital reference for products y
 
 Only "official" (that is, published by WotC) data is to be included in the module. Anything else should be added to a homebrew repository.
 
-Open5e Encounter+ Module is unofficial Fan Content permitted under the [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy){.blue}. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC
+Open5e Encounter+ Module is unofficial Fan Content permitted under the [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC
 
 ## About
 
