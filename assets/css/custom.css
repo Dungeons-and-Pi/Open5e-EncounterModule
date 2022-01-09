@@ -1,0 +1,9 @@
+div.force-two-column:not(.statblock), div.two-column:not(.statblock) {
+  column-count: 1;
+  -webkit-column-count: 1;
+  -moz-column-count: 1;
+}
+
+.footer-content, .footer-page-number, .footer-background {
+  display: none;
+}
