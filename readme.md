@@ -10,8 +10,13 @@ order: 1
 
 ## Table of Contents
 
+#### Monsters
+* [A Monsters](monsters/A/readme.md){.black}
+    * [Aatxe](monsters/A/Aatxe.md){.black}
+
 #### Spells
-* [A Spells](spells/A.md){.black}
+* [A Spells](spells/A/readme.md){.black}
+    * [Acid Arrow](spells/A/readme.md){.black}
 
 ## Disclaimer
 
