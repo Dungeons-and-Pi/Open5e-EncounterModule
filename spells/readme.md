@@ -7,4 +7,4 @@ order: 1
 
 # Spells
 
-* [A Spells](A.md){.black}
+* [A Spells](A/readme.md){.black}
