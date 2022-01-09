@@ -10,11 +10,14 @@ order: 1
 
 ## Table of Contents
 
-#### Monsters
-* [A Monsters](monsters/A/readme.md){.black}
-    * [Aatxe](monsters/A/Aatxe.md){.black}
+#### [Monsters](/page/readme-monsters.md)
+* [A Monsters](/page/A/readme.md)
+    * [Aatxe](/page/A/Aatxe.md)
 
-#### Spells
+#### [Spells](/page/readme-spells.md)
+<details>
+<summary>Spells</summary>
+
 * [A Spells](/page/spells-a.md)
     * [Acid Arrow](/spell/acid-arrow)
     * [Acid Splash](/spell/acid-splash)
@@ -52,6 +55,44 @@ order: 1
     * [Blur](/spell/blur)
     * [Branding Smite](/spell/branding-smite)
     * [Burning Hands](/spell/burning-hands)
+* [C Spells](/page/spells-c.md)
+    * [Call Lightning](/spell/call-lightning)
+    * [Calm Emotions](/spell/calm-emotions)
+    * [Chain Lightning](/spell/chain-lightning)
+    * [Charm Person](/spell/charm-person)
+    * [Chill Touch](/spell/chill-touch)
+    * [Circle of Death](/spell/circle-of-death)
+    * [Clairvoyance](/spell/clairvoyance)
+    * [Clone](/spell/clone)
+    * [Cloudkill](/spell/cloudkill)
+    * [Color Spray](/spell/color-spray)
+    * [Command](/spell/command)
+    * [Commune](/spell/commune)
+    * [Commune with Nature](/spell/commune-with-nature)
+    * [Comprehend Languages](/spell/comprehend-languages)
+    * [Compulsion](/spell/compulsion)
+    * [Cone of Cold](/spell/cone-of-cold)
+    * [Confusion](/spell/confusion)
+    * [Conjure Animals](/spell/conjure-animals)
+    * [Conjure Celestial](/spell/conjure-celestial)
+    * [Conjure Elemental](/spell/conjure-elemental)
+    * [Conjure Fey](/spell/conjure-fey)
+    * [Conjure Minor Elementals](/spell/conjure-minor-elementals)
+    * [Conjure Woodland Beings](/spell/conjure-woodland-beings)
+    * [Contact Other Plane](/spell/contact-other-plane)
+    * [Contagion](/spell/contagion)
+    * [Contingency](/spell/contingency)
+    * [Continual Flame](/spell/continual-flame)
+    * [Control Water](/spell/control-water)
+    * [Control Weather](/spell/control-weather)
+    * [Counterspell](/spell/counterspell)
+    * [Create Food and Water](/spell/create-food-and-water)
+    * [Create Undead](/spell/create-undead)
+    * [Create or Destroy Water](/spell/create-or-destroy-water)
+    * [Creation](/spell/creation)
+    * [Cure Wounds](/spell/cure-wounds)
+
+</details>
 
 ## Disclaimer
 
@@ -63,7 +104,7 @@ Open5e Encounter+ Module is unofficial Fan Content permitted under the [Fan Cont
 
 ## About
 
-We felt like the  default Compendium was too small. This module is built on the [open5e](https://open5e.com){.blue} project, aiming to be the best open-source resource for 5e content. So using their API, we have been slowly converting data for [EncounterPlus iOS app](https://apps.apple.com/us/app/encounterplus-for-d-d-5e/id1170693487){.blue}. The PDF version of this module use D&D Beyond Entries for it's resources so, some links are broken but at least they are there.
+We felt like the  default Compendium was too small. This module is built on the [open5e](https://open5e.com){.blue} project, aiming to be the best open-source resource for 5e content. So using their API, we have been slowly converting data for [EncounterPlus iOS app](https://encounter.plus/){.blue}. The PDF version of this module use D&D Beyond Entries for it's resources so, some links are broken but at least they are there.
 
 ## Contributing
 

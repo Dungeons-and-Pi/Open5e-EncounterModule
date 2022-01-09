@@ -7,8 +7,8 @@ author: Dungeons and Pi
 code: TBD
 cover: icon.png
 delete-empty-groups: true
-print-link-update: D&D Beyond Entries
-version: 27
+print-link-update: D&D Beyond Search
+version: 30
 auto-increment-version: true
 ignore:
   - .github/**
