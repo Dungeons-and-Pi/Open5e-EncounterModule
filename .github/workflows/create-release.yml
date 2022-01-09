@@ -23,6 +23,11 @@ jobs:
         run: |
           cd module-packer/source/
           python3 launcher.py run --path "../../code"
+
+      - name: Build Release .PDF File
+        run: |
+          cd module-packer/source/
+          python3 launcher.py run --path "../../code" --output pdf
           
       - name: Get Hash for Tag
         id: hash
@@ -31,7 +36,7 @@ jobs:
       - name: Puts the release on GitHub
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "code/open5e-encountermodule.module"
+          artifacts: "code/open5e-encountermodule.module, code/open5e-encountermodule.pdf"
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ steps.hash.outputs.sha_short }}
           name: Open5e Ecounter Spells - ${{ steps.hash.outputs.sha_short }} 
