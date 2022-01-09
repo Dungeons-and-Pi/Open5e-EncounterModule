@@ -1,6 +1,0 @@
-name: Spells
-slug: spells
-parent: /
-order: 3
-include-in: module
-copy-files: true
