@@ -174,6 +174,23 @@ order: 1
     * [Guidance](/spell/guidance)
     * [Guiding Bolt](/spell/guiding-bolt)
     * [Gust of Wind](/spell/gust-of-wind)
+* [H Spells](/page/spells-h.md)
+    * [Hallow](/spell/hallow)
+    * [Hallucinatory Terrain](/spell/hallucinatory-terrain)
+    * [Harm](/spell/harm)
+    * [Haste](/spell/haste)
+    * [Heal](/spell/heal)
+    * [Healing Word](/spell/healing-word)
+    * [Heat Metal](/spell/heat-metal)
+    * [Hellish Rebuke](/spell/hellish-rebuke)
+    * [Heroes' Feast](/spell/heroes-feast)
+    * [Heroism](/spell/heroism)
+    * [Hideous Laughter](/spell/hideous-laughter)
+    * [Hold Monster](/spell/hold-monster)
+    * [Hold Person](/spell/hold-person)
+    * [Holy Aura](/spell/holy-aura)
+    * [Hunter's Mark](/spell/hunters-mark)
+    * [Hypnotic Pattern](/spell/hypnotic-pattern)
 
 </details>
 
