@@ -206,6 +206,16 @@ order: 1
     * [Jump](/spell/jump)
 * [K Spells](/page/spells-k.md)
     * [Knock](/spell/knock)
+* [L Spells](/page/spells-l.md)
+    * [Legend Lore](/spell/legend-lore)
+    * [Lesser Restoration](/spell/lesser-restoration)
+    * [Levitate](/spell/levitate)
+    * [Light](/spell/light)
+    * [Lightning Bolt](/spell/lightning-bolt)
+    * [Locate Animals or Plants](/spell/locate-animals-or-plants)
+    * [Locate Creature](/spell/locate-creature)
+    * [Locate Object](/spell/locate-object)
+    * [Longstrider](/spell/longstrider)
 
 </details>
 

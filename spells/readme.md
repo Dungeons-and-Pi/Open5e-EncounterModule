@@ -210,7 +210,10 @@ order: 1
 
 </details>
 
+## [H Spells](/page/spells-h.md)
 
+<details>
+<summary>H Spells</summary>
 
 * [Hallow](/spell/hallow)
 * [Hallucinatory Terrain](/spell/hallucinatory-terrain)
@@ -264,5 +267,22 @@ order: 1
 <summary>K Spells</summary>
 
 * [Knock](/spell/knock)
+
+</details>
+
+## [L Spells](/page/spells-l.md)
+
+<details>
+<summary>L Spells</summary>
+
+* [Legend Lore](/spell/legend-lore)
+* [Lesser Restoration](/spell/lesser-restoration)
+* [Levitate](/spell/levitate)
+* [Light](/spell/light)
+* [Lightning Bolt](/spell/lightning-bolt)
+* [Locate Animals or Plants](/spell/locate-animals-or-plants)
+* [Locate Creature](/spell/locate-creature)
+* [Locate Object](/spell/locate-object)
+* [Longstrider](/spell/longstrider)
 
 </details>
