@@ -321,3 +321,12 @@ order: 1
 * [Move Earth](/spell/move-earth)
 
 </details>
+
+## [N Spells](/page/spells-n.md)
+
+<details>
+<summary>N Spells</summary>
+
+* [Nondetection](/spell/nondetection)
+
+</details>

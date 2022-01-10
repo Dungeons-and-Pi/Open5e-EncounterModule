@@ -244,6 +244,8 @@ order: 1
     * [Modify Memory](/spell/modify-memory)
     * [Moonbeam](/spell/moonbeam)
     * [Move Earth](/spell/move-earth)
+* [N Spells](/page/spells-N.md)
+    * [Nondetection](/spell/nondetection)
 
 </details>
 
