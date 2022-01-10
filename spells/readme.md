@@ -248,3 +248,21 @@ order: 1
 * [Irresistible Dance](/spell/irresistible-dance)
 
 </details>
+
+## [J Spells](/page/spells-j.md)
+
+<details>
+<summary>J Spells</summary>
+
+* [Jump](/spell/jump)
+
+</details>
+
+## [K Spells](/page/spells-k.md)
+
+<details>
+<summary>K Spells</summary>
+
+* [Knock](/spell/knock)
+
+</details>

@@ -202,6 +202,10 @@ order: 1
     * [Instant Summons](/spell/instant-summons)
     * [Invisibility](/spell/invisibility)
     * [Irresistible Dance](/spell/irresistible-dance)
+* [J Spells](/page/spells-j.md)
+    * [Jump](/spell/jump)
+* [K Spells](/page/spells-k.md)
+    * [Knock](/spell/knock)
 
 </details>
 
