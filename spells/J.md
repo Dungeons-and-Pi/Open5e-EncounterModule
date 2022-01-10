@@ -2,7 +2,7 @@
 name: J Spells
 slug: spells-j.md
 include-in: module
-order: 10
+order: 11
 ---
 
 # J Spells
