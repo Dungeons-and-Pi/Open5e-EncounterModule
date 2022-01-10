@@ -210,10 +210,7 @@ order: 1
 
 </details>
 
-## [H Spells](/page/spells-h.md)
 
-<details>
-<summary>H Spells</summary>
 
 * [Hallow](/spell/hallow)
 * [Hallucinatory Terrain](/spell/hallucinatory-terrain)
@@ -231,5 +228,23 @@ order: 1
 * [Holy Aura](/spell/holy-aura)
 * [Hunter's Mark](/spell/hunters-mark)
 * [Hypnotic Pattern](/spell/hypnotic-pattern)
+
+</details>
+
+## [I Spells](/page/spells-i.md)
+
+<details>
+<summary>I Spells</summary>
+
+* [Ice Storm](/spell/ice-storm)
+* [Identify](/spell/identify)
+* [Illusory Script](/spell/illusory-script)
+* [Imprisonment](/spell/imprisonment)
+* [Incendiary Cloud](/spell/incendiary-cloud)
+* [Inflict Wounds](/spell/inflict-wounds)
+* [Insect Plague](/spell/insect-plague)
+* [Instant Summons](/spell/instant-summons)
+* [Invisibility](/spell/invisibility)
+* [Irresistible Dance](/spell/irresistible-dance)
 
 </details>
