@@ -2,7 +2,7 @@
 name: C Spells
 slug: spells-c.md
 include-in: module
-order: 3
+order: 4
 ---
 
 # C Spells

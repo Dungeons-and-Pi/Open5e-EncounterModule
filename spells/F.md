@@ -2,7 +2,7 @@
 name: F Spells
 slug: spells-f.md
 include-in: module
-order: 6
+order: 7
 ---
 
 # F Spells

@@ -2,7 +2,7 @@
 name: E Spells
 slug: spells-e.md
 include-in: module
-order: 5
+order: 6
 ---
 
 # E Spells

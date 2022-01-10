@@ -2,7 +2,7 @@
 name: D Spells
 slug: spells-d.md
 include-in: module
-order: 4
+order: 5
 ---
 
 # D Spells
