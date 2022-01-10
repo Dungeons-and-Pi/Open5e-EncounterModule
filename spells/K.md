@@ -2,7 +2,7 @@
 name: K Spells
 slug: spells-k.md
 include-in: module
-order: 10
+order: 12
 ---
 
 # K Spells
