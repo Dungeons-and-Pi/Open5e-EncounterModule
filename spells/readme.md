@@ -184,3 +184,28 @@ order: 1
 * [Freezing Sphere](/spell/freezing-sphere)
 
 </details>
+
+## [G Spells](/page/spells-g.md)
+
+<details>
+<summary>G Spells</summary>
+
+* [Gaseous Form](/spell/gaseous-form)
+* [Gate](/spell/gate)
+* [Geas](/spell/geas)
+* [Gentle Repose](/spell/gentle-repose)
+* [Giant Insect](/spell/giant-insect)
+* [Glibness](/spell/glibness)
+* [Globe of Invulnerability](/spell/globe-of-invulnerability)
+* [Glyph of Warding](/spell/glyph-of-warding)
+* [Goodberry](/spell/goodberry)
+* [Grease](/spell/grease)
+* [Greater Invisibility](/spell/greater-invisibility)
+* [Greater Restoration](/spell/greater-restoration)
+* [Guardian of Faith](/spell/guardian-of-faith)
+* [Guards and Wards](/spell/guards-and-wards)
+* [Guidance](/spell/guidance)
+* [Guiding Bolt](/spell/guiding-bolt)
+* [Gust of Wind](/spell/gust-of-wind)
+
+</details>
