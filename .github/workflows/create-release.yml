@@ -16,8 +16,8 @@ jobs:
       - name: Move All Files into Code Dir
         run: mv * code | mkdir code  
         
-      - name: Download pisaucer/module-packer
-        run: git clone https://github.com/PiSaucer/module-packer
+      - name: Download encounterplus/module-packer
+        run: git clone https://github.com/encounterplus/module-packer
 
       - name: Build Release .module File
         run: |
