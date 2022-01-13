@@ -2,7 +2,7 @@
 name: U Spells
 slug: spells-u.md
 include-in: module
-order: 19
+order: 20
 ---
 
 # U Spells
