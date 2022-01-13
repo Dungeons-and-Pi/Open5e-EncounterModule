@@ -1,6 +1,6 @@
-name: Items
-slug: items
-parent: /
+name: Weapons
+slug: weapons
+parent: /items/
 order: 1
 include-in: module
 copy-files: true

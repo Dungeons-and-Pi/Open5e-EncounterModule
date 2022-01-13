@@ -1,6 +1,6 @@
-name: Items
-slug: items
+name: Spells
+slug: spells
 parent: /
-order: 1
+order: 3
 include-in: module
 copy-files: true
