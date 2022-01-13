@@ -272,6 +272,20 @@ order: 1
     * [Protection from Evil and Good](/spell/protection-from-evil-and-good)
     * [Protection from Poison](/spell/protection-from-poison)
     * [Purify Food and Drink](/spell/purify-food-and-drink)
+* [R Spells](/page/spells-r.md)
+    * [Raise Dead](/spell/raise-dead)
+    * [Ray of Enfeeblement](/spell/ray-of-enfeeblement)
+    * [Ray of Frost](/spell/ray-of-frost)
+    * [Ray of Sickness](/spell/ray-of-sickness)
+    * [Regenerate](/spell/regenerate)
+    * [Reincarnate](/spell/reincarnate)
+    * [Remove Curse](/spell/remove-curse)
+    * [Resilient Sphere](/spell/resilient-sphere)
+    * [Resistance](/spell/resistance)
+    * [Resurrection](/spell/resurrection)
+    * [Reverse Gravity](/spell/reverse-gravity)
+    * [Revivify](/spell/revivify)
+    * [Rope Trick](/spell/rope-trick)
 
 </details>
 

@@ -362,3 +362,24 @@ order: 1
 * [Purify Food and Drink](/spell/purify-food-and-drink)
 
 </details>
+
+## [R Spells](/page/spells-r.md)
+
+<details>
+<summary>R Spells</summary>
+
+* [Raise Dead](/spell/raise-dead)
+* [Ray of Enfeeblement](/spell/ray-of-enfeeblement)
+* [Ray of Frost](/spell/ray-of-frost)
+* [Ray of Sickness](/spell/ray-of-sickness)
+* [Regenerate](/spell/regenerate)
+* [Reincarnate](/spell/reincarnate)
+* [Remove Curse](/spell/remove-curse)
+* [Resilient Sphere](/spell/resilient-sphere)
+* [Resistance](/spell/resistance)
+* [Resurrection](/spell/resurrection)
+* [Reverse Gravity](/spell/reverse-gravity)
+* [Revivify](/spell/revivify)
+* [Rope Trick](/spell/rope-trick)
+
+</details>
