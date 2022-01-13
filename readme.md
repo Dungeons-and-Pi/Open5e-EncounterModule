@@ -1,6 +1,7 @@
 ---
 name: README
 slug: readme.md
+include-in: module
 order: 1
 ---
 
