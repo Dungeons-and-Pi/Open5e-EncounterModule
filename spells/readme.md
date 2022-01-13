@@ -330,3 +330,35 @@ order: 1
 * [Nondetection](/spell/nondetection)
 
 </details>
+
+## [P Spells](/page/spells-p.md)
+
+<details>
+<summary>P Spells</summary>
+
+* [Pass without Trace](/spell/pass-without-trace)
+* [Passwall](/spell/passwall)
+* [Phantasmal Killer](/spell/phantasmal-killer)
+* [Phantom Steed](/spell/phantom-steed)
+* [Planar Ally](/spell/planar-ally)
+* [Planar Binding](/spell/planar-binding)
+* [Plane Shift](/spell/plane-shift)
+* [Plant Growth](/spell/plant-growth)
+* [Poison Spray](/spell/poison-spray)
+* [Polymorph](/spell/polymorph)
+* [Power Word Kill](/spell/power-word-kill)
+* [Power Word Stun](/spell/power-word-stun)
+* [Prayer of Healing](/spell/prayer-of-healing)
+* [Prestidigitation](/spell/prestidigitation)
+* [Prismatic Spray](/spell/prismatic-spray)
+* [Prismatic Wall](/spell/prismatic-wall)
+* [Private Sanctum](/spell/private-sanctum)
+* [Produce Flame](/spell/produce-flame)
+* [Programmed Illusion](/spell/programmed-illusion)
+* [Project Image](/spell/project-image)
+* [Protection from Energy](/spell/protection-from-energy)
+* [Protection from Evil and Good](/spell/protection-from-evil-and-good)
+* [Protection from Poison](/spell/protection-from-poison)
+* [Purify Food and Drink](/spell/purify-food-and-drink)
+
+</details>
