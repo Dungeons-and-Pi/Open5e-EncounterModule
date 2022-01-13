@@ -384,6 +384,8 @@ order: 1
 
 </details>
 
+## [S Spells](/page/spells-r.md)
+
 <details>
 <summary>S Spells</summary>
 
@@ -424,5 +426,28 @@ order: 1
 * [Sunbeam](/spell/sunbeam)
 * [Sunburst](/spell/sunburst)
 * [Symbol](/spell/symbol)
+
+</details>
+
+## [T Spells](/page/spells-t.md)
+
+<details>
+<summary>T Spells</summary>
+
+* [Telekinesis](/spell/telekinesis)
+* [Telepathic Bond](/spell/telepathic-bond)
+* [Teleport](/spell/teleport)
+* [Teleportation Circle](/spell/teleportation-circle)
+* [Thaumaturgy](/spell/thaumaturgy)
+* [Thunderwave](/spell/thunderwave)
+* [Time Stop](/spell/time-stop)
+* [Tiny Hut](/spell/tiny-hut)
+* [Tongues](/spell/tongues)
+* [Transport via Plants](/spell/transport-via-plants)
+* [Tree Stride](/spell/tree-stride)
+* [True Polymorph](/spell/true-polymorph)
+* [True Resurrection](/spell/true-resurrection)
+* [True Seeing](/spell/true-seeing)
+* [True Strike](/spell/true-strike)
 
 </details>
