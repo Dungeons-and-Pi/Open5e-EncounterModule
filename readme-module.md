@@ -340,6 +340,8 @@ order: 1
     * [True Resurrection](/spell/true-resurrection)
     * [True Seeing](/spell/true-seeing)
     * [True Strike](/spell/true-strike)
+* [U Spells](/page/spells-u.md)
+    * [Unseen Servant](/spell/unseen-servant)
 
 </details>
 

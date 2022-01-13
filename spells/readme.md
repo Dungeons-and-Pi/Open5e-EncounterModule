@@ -451,3 +451,12 @@ order: 1
 * [True Strike](/spell/true-strike)
 
 </details>
+
+## [U Spells](/page/spells-u.md)
+
+<details>
+<summary>U Spells</summary>
+
+* [Unseen Servant](/spell/unseen-servant)
+
+</details>
