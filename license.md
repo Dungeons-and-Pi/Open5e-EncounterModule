@@ -1,6 +1,7 @@
 ---
 name: LICENSE
 slug: license.md
+footer: Open5e Encounter+ Module
 order: 2
 ---
 
