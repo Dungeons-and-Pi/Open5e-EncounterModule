@@ -360,6 +360,8 @@ order: 1
     * [Wind Wall](/spell/wind-wall)
     * [Wish](/spell/wish)
     * [Word of Recall](/spell/word-of-recall)
+* [Z Spells](/page/spells-z.md)
+    * [Zone of Truth](/spell/zone-of-truth)
 
 </details>
 

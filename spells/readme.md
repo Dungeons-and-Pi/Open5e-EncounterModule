@@ -471,7 +471,7 @@ order: 1
 
 </details>
 
-## [W Spells](/page/spells-W.md)
+## [W Spells](/page/spells-w.md)
 
 <details>
 <summary>W Spells</summary>
@@ -490,5 +490,14 @@ order: 1
 * [Wind Wall](/spell/wind-wall)
 * [Wish](/spell/wish)
 * [Word of Recall](/spell/word-of-recall)
+
+</details>
+
+## [Z Spells](/page/spells-z.md)
+
+<details>
+<summary>W Spells</summary>
+
+* [Zone of Truth](/spell/zone-of-truth)
 
 </details>
