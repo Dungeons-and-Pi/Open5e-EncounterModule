@@ -383,3 +383,46 @@ order: 1
 * [Rope Trick](/spell/rope-trick)
 
 </details>
+
+<details>
+<summary>S Spells</summary>
+
+* [Sacred Flame](/spell/sacred-flame)
+* [Sanctuary](/spell/sanctuary)
+* [Scorching Ray](/spell/scorching-ray)
+* [Scrying](/spell/scrying)
+* [Secret Chest](/spell/secret-chest)
+* [See Invisibility](/spell/see-invisibility)
+* [Seeming](/spell/seeming)
+* [Sending](/spell/sending)
+* [Sequester](/spell/sequester)
+* [Shapechange](/spell/shapechange)
+* [Shatter](/spell/shatter)
+* [Shield](/spell/shield)
+* [Shield of Faith](/spell/shield-of-faith)
+* [Shillelagh](/spell/shillelagh)
+* [Shocking Grasp](/spell/shocking-grasp)
+* [Silence](/spell/silence)
+* [Silent Image](/spell/silent-image)
+* [Simulacrum](/spell/simulacrum)
+* [Sleep](/spell/sleep)
+* [Sleet Storm](/spell/sleet-storm)
+* [Slow](/spell/slow)
+* [Spare the Dying](/spell/spare-the-dying)
+* [Speak with Animals](/spell/speak-with-animals)
+* [Speak with Dead](/spell/speak-with-dead)
+* [Speak with Plants](/spell/speak-with-plants)
+* [Spider Climb](/spell/spider-climb)
+* [Spike Growth](/spell/spike-growth)
+* [Spirit Guardians](/spell/spirit-guardians)
+* [Spiritual Weapon](/spell/spiritual-weapon)
+* [Stinking Cloud](/spell/stinking-cloud)
+* [Stone Shape](/spell/stone-shape)
+* [Stoneskin](/spell/stoneskin)
+* [Storm of Vengeance](/spell/storm-of-vengeance)
+* [Suggestion](/spell/suggestion)
+* [Sunbeam](/spell/sunbeam)
+* [Sunburst](/spell/sunburst)
+* [Symbol](/spell/symbol)
+
+</details>
