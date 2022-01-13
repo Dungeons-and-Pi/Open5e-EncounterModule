@@ -46,5 +46,5 @@ jobs:
           artifacts: "code/open5e-encountermodule.module, code/open5e-encountermodule.pdf"
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ steps.build-number.outputs.BUILD_NUMBER }}
-          name: Open5e Ecounter Spells - ${{ steps.build-number.outputs.BUILD_NUMBER }} - ${{ steps.hash.outputs.sha_short }} 
+          name: Open5e Ecounter Module - ${{ steps.build-number.outputs.BUILD_NUMBER }} - ${{ steps.hash.outputs.sha_short }} 
           prerelease: true
