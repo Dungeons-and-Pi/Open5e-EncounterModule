@@ -342,6 +342,9 @@ order: 1
     * [True Strike](/spell/true-strike)
 * [U Spells](/page/spells-u.md)
     * [Unseen Servant](/spell/unseen-servant)
+* [V Spells](/page/spells-v.md)
+    * [Vampiric Touch](/spell/vampiric-touch)
+    * [Vicious Mockery](/spell/vicious-mockery)
 
 </details>
 

@@ -460,3 +460,13 @@ order: 1
 * [Unseen Servant](/spell/unseen-servant)
 
 </details>
+
+## [V Spells](/page/spells-v.md)
+
+<details>
+<summary>U Spells</summary>
+
+* [Vampiric Touch](/spell/vampiric-touch)
+* [Vicious Mockery](/spell/vicious-mockery)
+
+</details>
