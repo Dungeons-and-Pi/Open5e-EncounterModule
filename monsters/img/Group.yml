@@ -1,0 +1,5 @@
+name: Monsters Images
+slug: monsters-images
+parent: /
+include-in: files
+copy-files: true

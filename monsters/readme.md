@@ -7,5 +7,5 @@ order: 1
 
 # Monsters
 
-* [A Monsters](A/readme.md){.black}
-    * [Aatxe](A/Aatxe.md){.black}
+* [A Monsters](/page/monsters-a.md)
+    * [Aatxe](/monster/aatxe)

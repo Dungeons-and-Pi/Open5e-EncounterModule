@@ -12,8 +12,8 @@ order: 1
 ## Table of Contents
 
 #### [Monsters](/page/readme-monsters.md)
-* [A Monsters](/page/A/readme.md)
-    * [Aatxe](/page/A/Aatxe.md)
+* [A Monsters](/page/monsters-a.md)
+    * [Aatxe](/monster/aatxe)
 
 #### [Spells](/page/readme-spells.md)
 <details>

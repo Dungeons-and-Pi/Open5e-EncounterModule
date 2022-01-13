@@ -1,6 +1,6 @@
 ---
-name: Aatxe
-slug: Aatxe.md
+name: A Monsters
+slug: monsters-a.md
 include-in: module
 order: 2
 ---
