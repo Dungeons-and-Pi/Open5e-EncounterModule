@@ -1,3 +1,7 @@
+---
+include-in: compendium
+---
+
 # Open5e Encounter+ Module
 
 [![version](https://img.shields.io/github/v/release/Dungeons-and-Pi/Open5e-EncounterModule?color=blue&include_prereleases&style=plastic)](https://github.com/Dungeons-and-Pi/Open5e-EncounterModule/releases)
