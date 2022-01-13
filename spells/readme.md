@@ -464,9 +464,31 @@ order: 1
 ## [V Spells](/page/spells-v.md)
 
 <details>
-<summary>U Spells</summary>
+<summary>V Spells</summary>
 
 * [Vampiric Touch](/spell/vampiric-touch)
 * [Vicious Mockery](/spell/vicious-mockery)
+
+</details>
+
+## [W Spells](/page/spells-W.md)
+
+<details>
+<summary>W Spells</summary>
+
+* [Wall of Fire](/spell/wall-of-fire)
+* [Wall of Force](/spell/wall-of-force)
+* [Wall of Ice](/spell/wall-of-ice)
+* [Wall of Stone](/spell/wall-of-stone)
+* [Wall of Thorns](/spell/wall-of-thorns)
+* [Warding Bond](/spell/warding-bond)
+* [Water Breathing](/spell/water-breathing)
+* [Water Walk](/spell/water-walk)
+* [Web](/spell/web)
+* [Weird](/spell/weird)
+* [Wind Walk](/spell/wind-walk)
+* [Wind Wall](/spell/wind-wall)
+* [Wish](/spell/wish)
+* [Word of Recall](/spell/word-of-recall)
 
 </details>
